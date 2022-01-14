@@ -1,0 +1,28 @@
+body{
+	
+}
+/*common css start*/
+.h1{
+	color: green;
+	padding-bottom: 0.50rem;
+}
+.a{
+	text-decoration: none;
+}
+
+/*common css end*/
+/*alart start*/
+
+/*alart end*/
+/*Badge Start*/
+.heading-cus1{
+	margin-bottom: 1rem;
+
+}
+
+/*Badge end*/
+/*Dropdowns start*/
+.dropdown-cus1{
+	min-height: 200px;
+}
+/*Dropdowns end*/
